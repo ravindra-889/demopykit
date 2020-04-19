@@ -1,0 +1,233 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (startUp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\chauhanr\PycharmProjects\startUp\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/startUp/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/startUp/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/startUp/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/startUp/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-551246196" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/startUp" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (FirstProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\chauhanr\PycharmProjects\FirstProject\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/FirstProject/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/FirstProject/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/FirstProject/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/FirstProject/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-2097895046" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/FirstProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (coding)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\chauhanr\OneDrive - Qualcomm\chauhanr\personal\docs\Education\python\coding\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/coding/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/coding/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/coding/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/coding/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1678030215" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/coding/" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\Python37-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/671489982" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pythonBasics)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\chauhanr\OneDrive - Qualcomm\chauhanr\personal\docs\Education\python\pythonBasics\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasics/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasics/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasics/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasics/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-320181922" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasics" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pythonScripts)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\chauhanr\OneDrive - Qualcomm\chauhanr\scripts\pine\pythonScripts\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/scripts/pine/pythonScripts/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/scripts/pine/pythonScripts/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/OneDrive - Qualcomm/chauhanr/scripts/pine/pythonScripts/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/scripts/pine/pythonScripts/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1515582786" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive - Qualcomm/chauhanr/scripts/pine/pythonScripts" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pythonBasicaNavinReady)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\chauhanr\OneDrive - Qualcomm\chauhanr\personal\docs\Education\python\pythonBasicaNavinReady\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1025002393" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pythonBasicaNavinReady) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\chauhanr\OneDrive - Qualcomm\chauhanr\personal\docs\Education\python\pythonBasicaNavinReady\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/Python37-32/DLLs" type="simple" />
+            <root url="file://C:/Python/Python37-32/Lib" type="simple" />
+            <root url="file://C:/Python/Python37-32" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1025002393" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive - Qualcomm/chauhanr/personal/docs/Education/python/pythonBasicaNavinReady" />
+    </jdk>
+  </component>
+</application>
